@@ -1,0 +1,6 @@
+﻿  Rooms.cpp
+D:\UET\Semester 2\Object Oriented Programming\Lab\Hotel Management System\Rooms.cpp(32,18): warning C4805: '==': unsafe mix of type 'short' and type 'bool' in operation
+D:\UET\Semester 2\Object Oriented Programming\Lab\Hotel Management System\Rooms.cpp(303,12): warning C4102: 'option_menu': unreferenced label
+D:\UET\Semester 2\Object Oriented Programming\Lab\Hotel Management System\Rooms.cpp(799,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\UET\Semester 2\Object Oriented Programming\Lab\Hotel Management System\Rooms.cpp(891,8): warning C4102: 'repeat': unreferenced label
+  Hotel Management System.vcxproj -> D:\UET\Semester 2\Object Oriented Programming\Lab\Hotel Management System\Debug\Hotel Management System.exe
